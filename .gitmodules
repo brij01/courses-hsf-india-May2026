@@ -1,0 +1,3 @@
+[submodule "intro-to-ml-exercises"]
+	path = intro-to-ml-exercises
+	url = ../../ligerlac/intro-to-ml-exercises.git
